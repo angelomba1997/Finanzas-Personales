@@ -1,0 +1,5 @@
+{
+  "name": "Finanzas Claras",
+  "description": "An intuitive application for tracking monthly expenses and savings in a visual and organized way. Users can manage expense categories, detail sub-expenses, and log savings with monthly comparisons.",
+  "requestFramePermissions": []
+}
